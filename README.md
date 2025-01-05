@@ -1,7 +1,7 @@
 # Hack Assembler
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 
 A Python implementation of an assembler for the Hack computer platform, converting Hack assembly language into machine code. This assembler is part of the [Nand to Tetris](https://www.nand2tetris.org/) course.
 
