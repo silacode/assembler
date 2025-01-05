@@ -52,15 +52,6 @@ JUMP_DICT = {
     "JMP": "111",
 }
 
-# def initialization():
-#     # initialize
-#     print("t")
-
-
-# def first_pass():
-#     # firstpass
-#     print("f")
-
 
 def restart():
     # restart
